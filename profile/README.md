@@ -50,7 +50,12 @@
 ## :construction: 서비스 아키텍처
 <img width="400" alt="architecture" src="https://github.com/ajou-dramaMate/dm_client/assets/86469788/7cde0b40-d0b8-435e-8236-e44d6a583909">
 
-<br><br>
+<br>
+
+## 🔶 ER 다이어그램
+<img width="600" alt="erd" src="https://github.com/ajou-dramaMate/dm_client/assets/86469788/07661676-aa0e-4940-84e4-696d4b1e6613">
+
+<br>
 
 ## 👻 Drama Mate 팀원들!
 |Role|Name|Github|
