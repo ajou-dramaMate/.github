@@ -16,14 +16,23 @@
 <br>
 
 ## :dart: 스크린샷
+### 메인 화면
 <img width="200" alt="image" src="https://github.com/ajou-dramaMate/dm_client/assets/86469788/25123ba0-16a3-4100-ba9f-b2341f503dbf">
 <img width="200" alt="image" src="https://github.com/ajou-dramaMate/dm_client/assets/86469788/83d67cbe-cee3-4d51-bd9c-ddcc7a96d026">
+
+### 드라마 상세보기 & 리뷰 등록
 <img width="200" alt="image" src="https://github.com/ajou-dramaMate/dm_client/assets/86469788/4438f353-fbd9-47fe-b6d3-a7d3d76e4b1a">
 <img width="200" alt="image" src="https://github.com/ajou-dramaMate/dm_client/assets/86469788/93ca83a5-c78a-4196-bb33-70fe1a29f718">
+
+### OTT 추천
 <img width="200" alt="image" src="https://github.com/ajou-dramaMate/dm_client/assets/86469788/5b9b5ece-fcb0-427a-8931-ff0a70f92130">
 <img width="200" alt="image" src="https://github.com/ajou-dramaMate/dm_client/assets/86469788/70e90012-33be-4d94-b127-9374d48c574f">
+
+### 게시글 보기 & 댓글 작성
 <img width="200" alt="image" src="https://github.com/ajou-dramaMate/dm_client/assets/86469788/7de08f76-c60d-4b55-aeac-322bfff5122d">
 <img width="200" alt="image" src="https://github.com/ajou-dramaMate/dm_client/assets/86469788/8aa3e48c-473a-4ccb-b2e8-93c2a0f12d75">
+
+### OTT 결제 인원 모집 & 마이페이지
 <img width="200" alt="image" src="https://github.com/ajou-dramaMate/dm_client/assets/86469788/3f0edeb4-ec48-4f39-a88f-589ccf01feae">
 <img width="200" alt="image" src="https://github.com/ajou-dramaMate/dm_client/assets/86469788/d83e31a3-fd83-41c4-9c07-c37efbeb40c8">
 
